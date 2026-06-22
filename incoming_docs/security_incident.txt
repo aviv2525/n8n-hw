@@ -1,0 +1,29 @@
+SECURITY INCIDENT REPORT
+
+Incident ID:
+SEC-2026-045
+
+Date:
+2026-06-18
+
+Reported By:
+David Cohen
+
+Summary:
+
+Multiple failed login attempts were detected against the company VPN gateway.
+
+Investigation revealed suspicious activity originating from several foreign IP addresses.
+
+Impact:
+
+No systems were compromised.
+
+Actions Taken:
+
+Passwords were reset.
+Multi-factor authentication was enforced.
+Monitoring rules were updated.
+
+Risk Level:
+Medium

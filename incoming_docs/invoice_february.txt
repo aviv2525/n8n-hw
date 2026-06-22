@@ -1,0 +1,19 @@
+INVOICE
+
+Invoice Number: INV-2026-002
+Date: 2026-02-15
+
+Vendor:
+Digital Systems Ltd.
+
+Customer:
+Apex Manufacturing
+
+Items:
+Software License Renewal - $1200
+Technical Support Package - $400
+
+Total Amount: $1600
+
+Payment Due Date:
+2026-03-15

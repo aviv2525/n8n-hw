@@ -1,0 +1,22 @@
+PURCHASE ORDER
+
+PO Number:
+PO-2026-118
+
+Issued To:
+Global Components Ltd.
+
+Requested Items:
+
+500 Network Adapters
+200 Industrial Sensors
+100 Power Modules
+
+Estimated Cost:
+$12,500
+
+Requested Delivery Date:
+2026-07-10
+
+Department:
+Operations

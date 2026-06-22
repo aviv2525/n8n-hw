@@ -1,0 +1,21 @@
+INVOICE
+
+Invoice Number: INV-2026-001
+Date: 2026-01-15
+
+Vendor:
+Tech Solutions Ltd.
+
+Customer:
+Apex Manufacturing
+
+Items:
+Cloud Hosting Services - $850
+Database Backup Services - $150
+
+Total Amount: $1000
+
+Payment Due Date:
+2026-02-15
+
+Please process payment within 30 days.
