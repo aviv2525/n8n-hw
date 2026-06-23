@@ -29,8 +29,7 @@ Google Sheets
         ↓
 Gmail Notification
 ```
-![Workflow](screenshots/workflow.png)
----
+![Workflow](screenshots/WorkFlow.png) ---
 
 # Features
 
