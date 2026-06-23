@@ -29,7 +29,7 @@ Google Sheets
         ↓
 Gmail Notification
 ```
-![Workflow](screenshots/WorkFlow.png) ---
+![Workflow](screenshots/WorkFlow%20-%20whitout%20Agent.png)
 
 # Features
 
